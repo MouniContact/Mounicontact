@@ -1,5 +1,5 @@
-## Bonjour à tous! 👋
-# Salut, moi c’est Mounira ! 👩‍💻
+
+# ##👋Salut, moi c’est Mounira ! 👩‍💻
 
 Étudiante en **Bachelor Data & Intelligence Artificielle**, passionnée par les technologies, les projets concrets et l’univers du luxe.  
 Je construis des projets qui mêlent analyse de données, développement back-end et storytelling visuel.  
