@@ -57,8 +57,7 @@ Technologies : React.js, Node.js, responsive design.
 
 ## 🔗 Me retrouver
 
-- LinkedIn : [linkedin.com/in/mounira-mihidjai](https://www.linkedin.com/in/mounira-mihidjai)  
-- GitHub : [github.com/MouniContact](https://github.com/MouniContact)  
+- LinkedIn : [linkedin.com/in/mounira-mihidjai](https://www.linkedin.com/in/mounira-mihidjai)   
 - Email : mounicontact@gmail.com
 
 ---
