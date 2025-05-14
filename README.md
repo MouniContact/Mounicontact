@@ -10,7 +10,7 @@ Mon objectif : devenir **cheffe de projet data**, en alliant technique, stratég
 ## 🎓 Mon parcours
 
 - **Bachelor Data & IA – HETIC** | 2025 – En cours  
-- **Licence Anglais-Chinois – INALCO** | 2023 – En cours  
+- **Licence Anglais-Chinois – SORBONNE** | 2023 – En cours  
 - **Certificat Google Data Analytics – Juin 2025 (prévu)**  
 - **Certificat Inside LVMH – 2024** (score : 81%)
 
@@ -39,6 +39,7 @@ Technologies : React.js, Node.js, responsive design.
 ## 🛠️ Compétences techniques
 
 - **Langages** : Node.js, JavaScript, React.js, PHP, Python, SQL, HTML/CSS  
+- ** Design: Figma, 
 - **Outils & environnements** : Power BI, MySQL, Git & GitHub, WordPress, Figma, VS Code, XAMPP  
 - **En préparation** : Java (2025)
 
