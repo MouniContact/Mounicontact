@@ -22,9 +22,7 @@ Mon objectif : devenir **cheffe de projet data**, en alliant technique, stratég
   Création d'une base de données en SQL liée à un tableau de bord Power BI pour analyser les ventes, le marketing et l’engagement client dans le secteur de la joaillerie de luxe.  
   Objectif : produire des KPIs exploitables pour l’aide à la décision dans une industrie premium.
 
-- **Vitacure** – Application de gestion de frais professionnels (PHP / SQL)  
-  Projet scolaire en équipe, rôle principal : développement back-end et base de données.  
-  → [Voir le projet sur GitHub](https://github.com/vitacure/vitacure)
+
 
   - **RoyalLissage** – Site vitrine pour une activité de lissage capillaire
   Ce projet est né d’une initiative personnelle pour soutenir l’activité entrepreneuriale de ma meilleure amie spécialisée dans les lissages professionnels (indien, nano-indien, etc.).  
