@@ -39,8 +39,8 @@ Technologies : React.js, Node.js, responsive design.
 ## 🛠️ Compétences techniques
 
 - **Langages** : Node.js, JavaScript, React.js, PHP, Python, SQL, HTML/CSS  
-- ** Design: Figma, 
-- **Outils & environnements** : Power BI, MySQL, Git & GitHub, WordPress, Figma, VS Code, XAMPP  
+- **Design** : Figma, Adobe, 
+- **Outils & environnements** : Power BI, MySQL, Git & GitHub, WordPress, VS Code, XAMPP, Snowflake  
 - **En préparation** : Java (2025)
 
 ---
